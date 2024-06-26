@@ -1,0 +1,13 @@
+
+
+
+本地启动
+  hexo -g -d
+  hexo server 
+
+
+
+
+
+参考：
+  https://blog.csdn.net/yaorongke/article/details/119089190
